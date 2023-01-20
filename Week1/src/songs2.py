@@ -11,6 +11,7 @@ def compute():
     }
     min_key = [key for key in song_list if song_list[key] == min(song_list.values())]
     min_key = str(min_key)
+    # print(min_key)
     print("Song", min_key[2], ":", min(song_list.values()))
 
 
