@@ -3,7 +3,7 @@ def compute():
     # add your code here to compute max
     temp = songs[0]
     for i in songs:
-        if i < temp:
+        if i > temp:
             temp = songs[i]
     print(temp)
 
