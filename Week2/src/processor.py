@@ -22,6 +22,7 @@ def compute2():
 
 if __name__ == "__main__":
     start = time.time()
+    # compute()
     compute2()
     end = time.time()
     # get the execution time
