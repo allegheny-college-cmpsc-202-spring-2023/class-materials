@@ -53,4 +53,4 @@ Note: Please read the textbook, based on the reading assignment given at the end
 Unlike the previous quizzes and midterm, FINALS is expected to cover more content (cumulative coverage from the start of the semester), more questions, and more time will be provided. 
 Typically, the questions are expected to be combination of multiple choice and narrative questions. You can expect between 15 to 25 questions and you will have 3 hours to complete the Exam. You will not receive your grade for the exam immediately after completing the google form. The results will be updated in the grade book directly during the grade due date. You are allowed to use a one-page (can be 2-sided) resource sheet during the Exam to add helpful notes and allowed to use a calculator during the Exam. 
 
-(Test)[]
+(Test)[https://forms.gle/PfmCrvK4r5a6ZXrW8]
